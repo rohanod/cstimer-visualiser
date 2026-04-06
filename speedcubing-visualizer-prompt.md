@@ -28,8 +28,8 @@ Make it visually appealing and easy to use. make sure that if you allow zooming 
 
 Make sure to make commits along the way with clear messages describing the changes made.
 
-Try to use the native components of this framework/ui library as much as possible before adding any external dependencies. Only add external dependencies if absolutely necessary.
-
 If you end up adding any external libraries for ui, make sure to style it to match the rest of the app as closely as possible.
 
 Some examples of the style are at 1.png and 2.png in the root of the repo.
+
+Use the example file provided at cstimer_20260405_161119.json. Use jq to query it as it's quite large and will fill up your context window.
